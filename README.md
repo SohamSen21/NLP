@@ -25,7 +25,7 @@ Visit : https://textblob.readthedocs.io/en/dev/
 
 Many of these capabilities are used as part of more complex NLP tasks.
 
-### NLP tasks using TextBlob and NLTK
+# NLP tasks using TextBlob and NLTK
 ## Installing the TextBlob Module
 ## Project Gutenberg
 
