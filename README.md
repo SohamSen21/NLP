@@ -18,7 +18,9 @@ Natural language lacks mathematical precision. Nuances of meaning make natural l
 10. **Word frequencies**
 11. **WordNet integration**  
 12. **Stop word elimination** 
-13. **n-grams** 
+13. **n-grams**
+
+
 Visit : https://textblob.readthedocs.io/en/dev/
 
 Many of these capabilities are used as part of more complex NLP tasks.
